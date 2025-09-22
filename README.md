@@ -13,7 +13,7 @@
 
 ###
 
-<p align="center">umm umm i don't know<br>i code stuff<br><br>sometimes<br><br>yeah</p>
+<p align="center">i code stuff<br><br>sometimes<br><br>yeah</p>
 
 ###
 
