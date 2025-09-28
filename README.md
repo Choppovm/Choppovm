@@ -89,6 +89,23 @@
 
 ###
 
+<h2 align="center">certifications/achievements/awards/etc</h2>
+
+###
+
+<h6 align="center"><i>(contact for more details (random requests will be ignored), don't really want to reveal personally identifiable information to complete strangers online)</i></h6>
+
+<p align="left">- <a href="https://www.dofe.org/about/">Duke of Edinburgh's Award</a>: Bronze (skills section related to programming)</p>
+<p align="left">- <a href="https://learn.microsoft.com/en-us/credentials/certifications/microsoft-office-specialist-associate-m365-apps/">Microsoft Office Specialist (MOS) Certification</a>: Word Associate</p>
+<p align="left">- <a href="https://learn.microsoft.com/en-us/credentials/certifications/microsoft-office-specialist-associate-m365-apps/">Microsoft Office Specialist (MOS) Certification</a>: Excel Associate</p>
+<p align="left">- <a href="https://cs50.org/">Harvard Univserity's CS50</a>: Introduction to Computer Science [<a href="https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science">CS50x</a>]</p>
+<p align="left">- <a href="https://cs50.org/">Harvard Univserity's CS50</a>: Artificial Intelligence with Python [<a href="https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python">CS50ai</a>]</p>
+<p align="left">- <a href="https://cs50.org/">Harvard University's CS50</a>: Cybersecurity (<b><i>awaiting final project evaluation</i></b>) [<a href="https://www.edx.org/learn/cybersecurity/harvard-university-cs50-s-introduction-to-cybersecurity">CS50cy</a>]</p>
+<p align="left">- <a href="https://astro-pi.org/">ESA x Raspberry Pi Foundation's Astro Pi</a>: Programmed Raspberry Pi that was used in the ISS [<a href="https://astro-pi.org/mission-space-lab">Click here for details</a>]</p>
+<p align="left">- a lot more (left out due to containing PII)</p>
+
+###
+
 <h2 align="center">other things</h2>
 
 ###
