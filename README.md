@@ -100,7 +100,7 @@
 <p align="left">- <a href="https://learn.microsoft.com/en-us/credentials/certifications/microsoft-office-specialist-associate-m365-apps/">Microsoft Office Specialist (MOS) Certification</a>: Excel Associate</p>
 <p align="left">- <a href="https://cs50.org/">Harvard Univserity's CS50</a>: Introduction to Computer Science [<a href="https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science">CS50x</a>]</p>
 <p align="left">- <a href="https://cs50.org/">Harvard Univserity's CS50</a>: Artificial Intelligence with Python [<a href="https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python">CS50ai</a>]</p>
-<p align="left">- <a href="https://cs50.org/">Harvard University's CS50</a>: Cybersecurity (<b><i>awaiting final project evaluation</i></b>) [<a href="https://www.edx.org/learn/cybersecurity/harvard-university-cs50-s-introduction-to-cybersecurity">CS50cy</a>]</p>
+<p align="left">- <a href="https://cs50.org/">Harvard University's CS50</a>: Cybersecurity [<a href="https://www.edx.org/learn/cybersecurity/harvard-university-cs50-s-introduction-to-cybersecurity">CS50cy</a>]</p>
 <p align="left">- <a href="https://astro-pi.org/">ESA x Raspberry Pi Foundation's Astro Pi</a>: Programmed Raspberry Pi that was used in the ISS [<a href="https://astro-pi.org/mission-space-lab">Click here for details</a>]</p>
 <p align="left">- a lot more (left out due to containing PII)</p>
 
