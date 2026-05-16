@@ -85,6 +85,14 @@
 
 ###
 
+<p align="center">none - currently focusing on <a href="https://en.wikipedia.org/wiki/A-level">a-levels</a> until they finish.</p>
+
+###
+
+<h2 align="center">projects i've made</h2>
+
+###
+
 <p align="center">worldwanderer - <a href="https://www.aqa.org.uk/student-and-parent-support/private-candidates/non-exam-assessment">NEA</a> coursework project for (aqa) <a href="https://en.wikipedia.org/wiki/A-level">a-level</a> computer science (repository: [private for now])</p>
 
 ###
